@@ -1,0 +1,5 @@
+SLACK_TOKEN=SlackToken
+TWILIO_ACCOUNT_SID=TwilioAccountSid
+TWILIO_AUTH_TOKEN=TwilioAuthToken
+BOT_ID=SlackBotId
+TWILIO_NUMBER=TwilioNumber
